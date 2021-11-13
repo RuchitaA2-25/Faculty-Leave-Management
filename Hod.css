@@ -1,0 +1,25 @@
+
+table, th, td {
+	border: 1px black solid;
+    border-spacing: 50px 50px;
+    
+}
+table {
+	width: 100%;
+    text-align: center;
+}
+
+th {
+	height: 30px;
+}
+th, td {
+	padding: 10px;
+}
+tr:hover {
+    background-color: lightgray;
+    }
+th {
+        background-color: gray;
+        color: white;
+}
+        
